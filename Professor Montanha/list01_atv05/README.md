@@ -1,6 +1,6 @@
-## Getting Started
+## Sobre o projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O presente projeto é um exercicio para a turma de Programação de Soluções Computacionais.
 
 ## Folder Structure
 
@@ -16,3 +16,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Enunciado do exercicio
+
+Faça um Programa que converta metros para centímetros.
