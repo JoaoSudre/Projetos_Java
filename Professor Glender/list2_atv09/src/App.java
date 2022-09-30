@@ -21,7 +21,11 @@ public class App {
                 dias = dias +365;
             }
         }
+        sc.close();
+
+
         System.out.println("Total de dias: " + dias);
+
 
     }
 }
