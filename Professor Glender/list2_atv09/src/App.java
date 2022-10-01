@@ -23,9 +23,7 @@ public class App {
         }
         sc.close();
 
-
         System.out.println("Total de dias: " + dias);
-
 
     }
 }
