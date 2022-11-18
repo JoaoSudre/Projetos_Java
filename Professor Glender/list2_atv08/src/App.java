@@ -11,5 +11,6 @@ public class App {
             }
         }
         System.out.println("Entre 1 e 1000 há " +multiplos+" múltiplos de 2, 3 e 5");
+        sc.close();
     }
 }
